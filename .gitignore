@@ -24,6 +24,7 @@ whitelist.json
 
 work
 banned-players.json
+scriptcraft/data
 scriptcraft/lib/
 scriptcraft/modules/
 scriptcraft/readme.md
