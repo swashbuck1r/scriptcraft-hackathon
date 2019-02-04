@@ -22,7 +22,8 @@ spigot.yml
 usercache.json
 whitelist.json
 
-
-
 work
-
+banned-players.json
+scriptcraft/lib/
+scriptcraft/modules/
+scriptcraft/readme.md
