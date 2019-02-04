@@ -1,239 +1,118 @@
-[12:42:34] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[12:42:34] [Server thread/INFO]: Loading properties
-[12:42:34] [Server thread/INFO]: Default game type: SURVIVAL
-[12:42:34] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-e8ded36-acbc348 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
-[12:42:34] [Server thread/INFO]: Debug logging is disabled
-[12:42:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[12:42:34] [Server thread/INFO]: Using 4 threads for Netty based IO
-[12:42:34] [Server thread/INFO]: Generating keypair
-[12:42:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:42:35] [Server thread/INFO]: Using epoll channel type
-[12:42:35] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[12:42:35] [Server thread/INFO]: [scriptcraft] Loading scriptcraft v3.3.0-2017-10-15
-[12:42:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:42:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:42:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:42:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:42:35] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[12:42:35] [Server thread/INFO]: Preparing level "world"
-[12:42:35] [Server thread/INFO]: -------- World Settings For [world] --------
-[12:42:35] [Server thread/INFO]: Mob Spawn Range: 4
-[12:42:35] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[12:42:35] [Server thread/INFO]: Cane Growth Modifier: 100%
-[12:42:35] [Server thread/INFO]: Melon Growth Modifier: 100%
-[12:42:35] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[12:42:35] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[12:42:35] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[12:42:35] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[12:42:35] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[12:42:35] [Server thread/INFO]: Vine Growth Modifier: 100%
-[12:42:35] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[12:42:35] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[12:42:35] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[12:42:35] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[12:42:35] [Server thread/INFO]: Random Lighting Updates: false
-[12:42:35] [Server thread/INFO]: Structure Info Saving: true
-[12:42:35] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[12:42:35] [Server thread/INFO]: Max TNT Explosions: 100
-[12:42:35] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[12:42:35] [Server thread/INFO]: Item Merge Radius: 2.5
-[12:42:35] [Server thread/INFO]: Item Despawn Rate: 6000
-[12:42:35] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[12:42:35] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[12:42:35] [Server thread/INFO]: View Distance: 10
-[12:42:35] [Server thread/INFO]: Experience Merge Radius: 3.0
-[12:42:35] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[12:42:35] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[12:42:36] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[12:42:36] [Server thread/INFO]: Mob Spawn Range: 4
-[12:42:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[12:42:36] [Server thread/INFO]: Cane Growth Modifier: 100%
-[12:42:36] [Server thread/INFO]: Melon Growth Modifier: 100%
-[12:42:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[12:42:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[12:42:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[12:42:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[12:42:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[12:42:36] [Server thread/INFO]: Vine Growth Modifier: 100%
-[12:42:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[12:42:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[12:42:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[12:42:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[12:42:36] [Server thread/INFO]: Random Lighting Updates: false
-[12:42:36] [Server thread/INFO]: Structure Info Saving: true
-[12:42:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[12:42:36] [Server thread/INFO]: Max TNT Explosions: 100
-[12:42:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[12:42:36] [Server thread/INFO]: Item Merge Radius: 2.5
-[12:42:36] [Server thread/INFO]: Item Despawn Rate: 6000
-[12:42:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[12:42:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[12:42:36] [Server thread/INFO]: View Distance: 10
-[12:42:36] [Server thread/INFO]: Experience Merge Radius: 3.0
-[12:42:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[12:42:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[12:42:36] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[12:42:36] [Server thread/INFO]: Mob Spawn Range: 4
-[12:42:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[12:42:36] [Server thread/INFO]: Cane Growth Modifier: 100%
-[12:42:36] [Server thread/INFO]: Melon Growth Modifier: 100%
-[12:42:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[12:42:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[12:42:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[12:42:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[12:42:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[12:42:36] [Server thread/INFO]: Vine Growth Modifier: 100%
-[12:42:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[12:42:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[12:42:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[12:42:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[12:42:36] [Server thread/INFO]: Random Lighting Updates: false
-[12:42:36] [Server thread/INFO]: Structure Info Saving: true
-[12:42:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[12:42:36] [Server thread/INFO]: Max TNT Explosions: 100
-[12:42:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[12:42:36] [Server thread/INFO]: Item Merge Radius: 2.5
-[12:42:36] [Server thread/INFO]: Item Despawn Rate: 6000
-[12:42:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[12:42:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[12:42:36] [Server thread/INFO]: View Distance: 10
-[12:42:36] [Server thread/INFO]: Experience Merge Radius: 3.0
-[12:42:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[12:42:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[12:42:36] [Server thread/INFO]: Preparing start region for level 0 (Seed: -2323229967357585170)
-[12:42:37] [Server thread/INFO]: Preparing spawn area: 8%
-[12:42:38] [Server thread/INFO]: Preparing spawn area: 18%
-[12:42:39] [Server thread/INFO]: Preparing spawn area: 27%
-[12:42:40] [Server thread/INFO]: Preparing spawn area: 39%
-[12:42:41] [Server thread/INFO]: Preparing spawn area: 49%
-[12:42:42] [Server thread/INFO]: Preparing spawn area: 63%
-[12:42:43] [Server thread/INFO]: Preparing spawn area: 80%
-[12:42:44] [Server thread/INFO]: Preparing spawn area: 95%
-[12:42:45] [Server thread/INFO]: Preparing start region for level 1 (Seed: -2323229967357585170)
-[12:42:46] [Server thread/INFO]: Preparing spawn area: 17%
-[12:42:47] [Server thread/INFO]: Preparing spawn area: 37%
-[12:42:48] [Server thread/INFO]: Preparing spawn area: 50%
-[12:42:49] [Server thread/INFO]: Preparing spawn area: 66%
-[12:42:50] [Server thread/INFO]: Preparing spawn area: 82%
-[12:42:51] [Server thread/INFO]: Preparing start region for level 2 (Seed: -2323229967357585170)
-[12:42:52] [Server thread/INFO]: Preparing spawn area: 71%
-[12:42:52] [Server thread/INFO]: [scriptcraft] Enabling scriptcraft v3.3.0-2017-10-15
-[12:42:53] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/command.js (NE)
-[12:42:53] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/console.js (NE)
-[12:42:54] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/events-bukkit.js (NE)
-[12:42:55] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/events-canary.js (NE)
-[12:42:55] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/events-helper-bukkit.js (NE)
-[12:43:14] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/events-helper-canary.js (NE)
-[12:43:23] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/events.js (NE)
-[12:43:24] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/find.js (NE)
-[12:43:24] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/java-utils.js (NE)
-[12:43:24] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/js-patch.js (NE)
-[12:43:25] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/json2.js (NE)
-[12:43:27] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/legacy-check.js (NE)
-[12:43:28] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/nashorn-type.js (NE)
-[12:43:28] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/persistence.js (NE)
-[12:43:28] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/plugin.js (NE)
-[12:43:28] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/readme.md (NE)
-[12:43:28] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/require.js (NE)
-[12:43:31] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/scriptcraft.js (NE)
-[12:43:37] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/tabcomplete-jsp.js (NE)
-[12:43:38] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/tabcomplete.js (NE)
-[12:43:39] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/task-bukkit.js (NE)
-[12:43:39] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/lib/task-canary.js (NE)
-[12:43:40] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/readme.md (NE)
-[12:43:40] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/alias/alias.js (NE)
-[12:43:41] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/arrows.js (NE)
-[12:43:43] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/at.js (NE)
-[12:43:43] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/classroom.js (NE)
-[12:43:43] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/commando/commando-test.js (NE)
-[12:43:43] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/commando/commando.js (NE)
-[12:43:44] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/drone/contrib/castle.js (NE)
-[12:43:44] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/drone/contrib/chessboard.js (NE)
-[12:43:45] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/drone/contrib/cottage.js (NE)
-[12:43:46] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/drone/contrib/dancefloor.js (NE)
-[12:43:46] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/drone/contrib/fort.js (NE)
-[12:43:47] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/drone/contrib/hangtorch.js (NE)
-[12:43:47] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/drone/contrib/lcd-clock.js (NE)
-[12:43:48] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/drone/contrib/logo.js (NE)
-[12:43:49] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/drone/contrib/mazegen.js (NE)
-[12:43:50] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/drone/contrib/rainbow.js (NE)
-[12:43:51] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/drone/contrib/redstonewire.js (NE)
-[12:43:51] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/drone/contrib/spawn.js (NE)
-[12:43:52] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/drone/contrib/spiral_stairs.js (NE)
-[12:43:52] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/drone/contrib/temple.js (NE)
-[12:43:52] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/drone/drone.js (NE)
-[12:43:52] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/entities.js (NE)
-[12:43:52] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/examples/example-1-hello-module.js (NE)
-[12:43:53] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/examples/example-2-hello-command.js (NE)
-[12:43:53] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/examples/example-3-hello-ops-only.js (NE)
-[12:43:53] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/examples/example-4-hello-parameters.js (NE)
-[12:43:54] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/examples/example-5-hello-using-module.js (NE)
-[12:43:54] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/examples/example-6-hello-player.js (NE)
-[12:43:55] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/examples/example-7-hello-events.js (NE)
-[12:43:55] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/homes/homes.js (NE)
-[12:43:59] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/minigames/NumberGuess.js (NE)
-[12:44:00] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/minigames/cow-clicker.js (NE)
-[12:44:01] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/signs/examples.js (NE)
-[12:44:01] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/plugins/spawn.js (NE)
-[12:44:02] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/at.js (NE)
-[12:44:03] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/block-colors.js (NE)
-[12:44:03] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/blockhelper.js (NE)
-[12:44:05] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/blocks.js (NE)
-[12:44:08] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/bukkit/fireworks.js (NE)
-[12:44:08] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/bukkit/input.js (NE)
-[12:44:08] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/bukkit/inventory.js (NE)
-[12:44:08] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/bukkit/items.js (NE)
-[12:44:09] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/bukkit/recipes.js (NE)
-[12:44:09] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/bukkit/sounds.js (NE)
-[12:44:10] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/canary/fireworks.js (NE)
-[12:44:10] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/canary/input.js (NE)
-[12:44:10] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/canary/inventory.js (NE)
-[12:44:11] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/canary/items.js (NE)
-[12:44:11] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/canary/recipes.js (NE)
-[12:44:12] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/canary/sounds.js (NE)
-[12:44:12] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/classroom/index.js (NE)
-[12:44:14] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/drone/arc.js (NE)
-[12:44:16] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/drone/bed.js (NE)
-[12:44:17] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/drone/blocktype.js (NE)
-[12:44:19] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/drone/copypaste.js (NE)
-[12:44:20] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/drone/cylinders.js (NE)
-[12:44:20] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/drone/doors.js (NE)
-[12:44:21] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/drone/firework.js (NE)
-[12:44:21] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/drone/garden.js (NE)
-[12:44:22] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/drone/index.js (NE)
-[12:44:30] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/drone/ladder.js (NE)
-[12:44:30] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/drone/movement.js (NE)
-[12:44:32] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/drone/prism.js (NE)
-[12:44:32] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/drone/rand.js (NE)
-[12:44:33] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/drone/sign.js (NE)
-[12:44:33] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/drone/sphere.js (NE)
-[12:44:36] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/drone/stairs.js (NE)
-[12:44:36] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/drone/test.js (NE)
-[12:44:36] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/drone/trees.js (NE)
-[12:44:37] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/entities.js (NE)
-[12:44:37] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/fireworks.js (NE)
-[12:44:37] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/http/package.json (NE)
-[12:44:37] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/http/request.js (NE)
-[12:44:39] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/input.js (NE)
-[12:44:39] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/inventory/index.js (NE)
-[12:44:40] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/items.js (NE)
-[12:44:40] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/lightning.js (NE)
-[12:44:40] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/minigames/scoreboard.js (NE)
-[12:44:41] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/recipes.js (NE)
-[12:44:41] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/sc-mqtt.js (NE)
-[12:44:42] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/signs/menu.js (NE)
-[12:44:44] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/signs/package.json (NE)
-[12:44:44] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/signs/signs.js (NE)
-[12:44:45] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/slash.js (NE)
-[12:44:45] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/sounds.js (NE)
-[12:44:45] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/spawn.js (NE)
-[12:44:46] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/teleport.js (NE)
-[12:44:46] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/underscore.js (NE)
-[12:44:51] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/utils/package.json (NE)
-[12:44:51] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/utils/string-exts.js (NE)
-[12:44:51] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/utils/utils.js (NE)
-[12:44:57] [Server thread/INFO]: [scriptcraft] Unzipping /minecraft/scriptcraft/modules/watcher.js (NE)
-[12:44:59] [Server thread/WARN]: [scriptcraft] cow-clicker minigame is not yet supported in CanaryMod or Bukkit
-[12:45:01] [Server thread/INFO]: Done (146.081s)! For help, type "help" or "?"
-[12:45:01] [Server thread/INFO]: [scriptcraft] js-patch setTimeout() test complete
-[12:45:01] [Server thread/INFO]: Scripting turned on for all players on server 172.17.0.2
+[12:51:43] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[12:51:43] [Server thread/INFO]: Loading properties
+[12:51:43] [Server thread/INFO]: Default game type: SURVIVAL
+[12:51:44] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-e8ded36-acbc348 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[12:51:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:51:44] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:51:44] [Server thread/INFO]: Debug logging is disabled
+[12:51:44] [Server thread/INFO]: Generating keypair
+[12:51:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:51:44] [Server thread/INFO]: Using epoll channel type
+[12:51:44] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[12:51:44] [Server thread/INFO]: [scriptcraft] Loading scriptcraft v3.3.0-2017-10-15
+[12:51:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:51:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:51:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:51:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:51:44] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[12:51:44] [Server thread/INFO]: Preparing level "world"
+[12:51:44] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:51:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:51:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:51:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:51:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:51:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:51:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:51:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:51:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:51:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:51:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:51:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:51:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:51:44] [Server thread/INFO]: Mob Spawn Range: 4
+[12:51:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:51:44] [Server thread/INFO]: Random Lighting Updates: false
+[12:51:44] [Server thread/INFO]: Structure Info Saving: true
+[12:51:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:51:44] [Server thread/INFO]: Max TNT Explosions: 100
+[12:51:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:51:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:51:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:51:44] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:51:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:51:44] [Server thread/INFO]: View Distance: 10
+[12:51:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:51:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:51:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:51:45] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:51:45] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:51:45] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:51:45] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:51:45] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:51:45] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:51:45] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:51:45] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:51:45] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:51:45] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:51:45] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:51:45] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:51:45] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:51:45] [Server thread/INFO]: Mob Spawn Range: 4
+[12:51:45] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:51:45] [Server thread/INFO]: Random Lighting Updates: false
+[12:51:45] [Server thread/INFO]: Structure Info Saving: true
+[12:51:45] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:51:45] [Server thread/INFO]: Max TNT Explosions: 100
+[12:51:45] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:51:45] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:51:45] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:51:45] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:51:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:51:45] [Server thread/INFO]: View Distance: 10
+[12:51:45] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:51:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:51:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:51:45] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:51:45] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:51:45] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:51:45] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:51:45] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:51:45] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:51:45] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:51:45] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:51:45] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:51:45] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:51:45] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:51:45] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:51:45] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:51:45] [Server thread/INFO]: Mob Spawn Range: 4
+[12:51:45] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:51:45] [Server thread/INFO]: Random Lighting Updates: false
+[12:51:45] [Server thread/INFO]: Structure Info Saving: true
+[12:51:45] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:51:45] [Server thread/INFO]: Max TNT Explosions: 100
+[12:51:45] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:51:45] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:51:45] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:51:45] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:51:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:51:45] [Server thread/INFO]: View Distance: 10
+[12:51:45] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:51:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:51:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:51:45] [Server thread/INFO]: Preparing start region for level 0 (Seed: -2323229967357585170)
+[12:51:46] [Server thread/INFO]: Preparing spawn area: 24%
+[12:51:47] [Server thread/INFO]: Preparing start region for level 1 (Seed: -2323229967357585170)
+[12:51:48] [Server thread/INFO]: Preparing start region for level 2 (Seed: -2323229967357585170)
+[12:51:48] [Server thread/INFO]: [scriptcraft] Enabling scriptcraft v3.3.0-2017-10-15
+[12:51:51] [Server thread/WARN]: [scriptcraft] cow-clicker minigame is not yet supported in CanaryMod or Bukkit
+[12:51:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:51:52] [Server thread/INFO]: Done (7.844s)! For help, type "help" or "?"
+[12:51:52] [Server thread/INFO]: [scriptcraft] js-patch setTimeout() test complete
+[12:51:52] [Server thread/INFO]: Scripting turned on for all players on server 172.17.0.2
+[12:52:02] [User Authenticator #1/INFO]: UUID of player swashbuck1r is 3c826ba7-0e53-33ee-8f38-320266bdba14
+[12:52:02] [Server thread/INFO]: [scriptcraft] Enabling scripting for player swashbuck1r
+[12:52:03] [Server thread/INFO]: swashbuck1r[/172.17.0.1:36042] logged in with entity id 292 at ([world]-165.5, 71.0, 257.5)
+[12:52:09] [Server thread/INFO]: swashbuck1r issued server command: /gamemode 1
+[12:52:09] [Server thread/INFO]: [swashbuck1r: Set own game mode to Creative Mode]
+[12:52:46] [Thread-2/INFO]: Stopping server
