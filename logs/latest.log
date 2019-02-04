@@ -1,137 +1,176 @@
-[15:09:06] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[15:09:06] [Server thread/INFO]: Loading properties
-[15:09:06] [Server thread/INFO]: Default game type: CREATIVE
-[15:09:07] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-e8ded36-acbc348 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
-[15:09:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[15:09:07] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:09:07] [Server thread/INFO]: Debug logging is disabled
-[15:09:07] [Server thread/INFO]: Generating keypair
-[15:09:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:09:07] [Server thread/INFO]: Using epoll channel type
-[15:09:07] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[15:09:07] [Server thread/INFO]: [scriptcraft] Loading scriptcraft v3.3.0-2017-10-15
-[15:09:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:09:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:09:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:09:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:09:07] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[15:09:07] [Server thread/INFO]: Preparing level "world"
-[15:09:08] [Server thread/INFO]: -------- World Settings For [world] --------
-[15:09:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Vine Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[15:09:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[15:09:08] [Server thread/INFO]: Mob Spawn Range: 4
-[15:09:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[15:09:08] [Server thread/INFO]: Random Lighting Updates: false
-[15:09:08] [Server thread/INFO]: Structure Info Saving: true
-[15:09:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[15:09:08] [Server thread/INFO]: Max TNT Explosions: 100
-[15:09:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:09:08] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:09:08] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:09:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[15:09:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:09:08] [Server thread/INFO]: View Distance: 10
-[15:09:08] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:09:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:09:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:09:08] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[15:09:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Vine Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[15:09:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[15:09:08] [Server thread/INFO]: Mob Spawn Range: 4
-[15:09:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[15:09:08] [Server thread/INFO]: Random Lighting Updates: false
-[15:09:08] [Server thread/INFO]: Structure Info Saving: true
-[15:09:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[15:09:08] [Server thread/INFO]: Max TNT Explosions: 100
-[15:09:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:09:08] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:09:08] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:09:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[15:09:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:09:08] [Server thread/INFO]: View Distance: 10
-[15:09:08] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:09:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:09:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:09:08] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[15:09:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Vine Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[15:09:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[15:09:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[15:09:08] [Server thread/INFO]: Mob Spawn Range: 4
-[15:09:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[15:09:08] [Server thread/INFO]: Random Lighting Updates: false
-[15:09:08] [Server thread/INFO]: Structure Info Saving: true
-[15:09:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[15:09:08] [Server thread/INFO]: Max TNT Explosions: 100
-[15:09:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:09:08] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:09:08] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:09:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[15:09:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:09:08] [Server thread/INFO]: View Distance: 10
-[15:09:08] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:09:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:09:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:09:08] [Server thread/INFO]: Preparing start region for level 0 (Seed: -2323229967357585170)
-[15:09:09] [Server thread/INFO]: Preparing spawn area: 20%
-[15:09:10] [Server thread/INFO]: Preparing start region for level 1 (Seed: -2323229967357585170)
-[15:09:11] [Server thread/INFO]: Preparing start region for level 2 (Seed: -2323229967357585170)
-[15:09:11] [Server thread/INFO]: [scriptcraft] Enabling scriptcraft v3.3.0-2017-10-15
-[15:09:14] [Server thread/WARN]: [scriptcraft] cow-clicker minigame is not yet supported in CanaryMod or Bukkit
-[15:09:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:09:16] [Server thread/INFO]: Done (8.487s)! For help, type "help" or "?"
-[15:09:16] [Server thread/INFO]: [scriptcraft] js-patch setTimeout() test complete
-[15:09:16] [Server thread/INFO]: Scripting turned on for all players on server 172.17.0.2
-[15:20:20] [User Authenticator #1/INFO]: UUID of player swashbuck1r is 3c826ba7-0e53-33ee-8f38-320266bdba14
-[15:20:20] [Server thread/INFO]: [scriptcraft] Enabling scripting for player swashbuck1r
-[15:20:20] [Server thread/INFO]: swashbuck1r[/172.17.0.1:36146] logged in with entity id 369 at ([world]465.97963463400396, 69.30536775724067, 250.9042741827055)
-[15:20:41] [Server thread/INFO]: swashbuck1r issued server command: /js refresh()
-[15:20:41] [Server thread/INFO]: [scriptcraft] Disabling scriptcraft v3.3.0-2017-10-15
-[15:20:41] [Server thread/INFO]: [scriptcraft] Enabling scriptcraft v3.3.0-2017-10-15
-[15:20:41] [Server thread/WARN]: Enabled plugin with unregistered PluginClassLoader scriptcraft v3.3.0-2017-10-15
-[15:20:42] [Server thread/WARN]: [scriptcraft] cow-clicker minigame is not yet supported in CanaryMod or Bukkit
-[15:20:43] [Server thread/INFO]: [scriptcraft] js-patch setTimeout() test complete
-[15:20:49] [Server thread/INFO]: swashbuck1r issued server command: /jsp clear 10
-[15:21:51] [Server thread/INFO]: swashbuck1r issued server command: /js refresh()
-[15:21:51] [Server thread/INFO]: [scriptcraft] Disabling scriptcraft v3.3.0-2017-10-15
-[15:21:51] [Server thread/INFO]: [scriptcraft] Enabling scriptcraft v3.3.0-2017-10-15
-[15:21:51] [Server thread/WARN]: Enabled plugin with unregistered PluginClassLoader scriptcraft v3.3.0-2017-10-15
-[15:21:52] [Server thread/WARN]: [scriptcraft] cow-clicker minigame is not yet supported in CanaryMod or Bukkit
-[15:21:53] [Server thread/INFO]: [scriptcraft] js-patch setTimeout() test complete
-[15:21:58] [Server thread/INFO]: swashbuck1r issued server command: /jsp clear 10
-[15:22:42] [Server thread/INFO]: swashbuck1r issued server command: /js refresh()
-[15:22:42] [Server thread/INFO]: [scriptcraft] Disabling scriptcraft v3.3.0-2017-10-15
-[15:22:42] [Server thread/INFO]: [scriptcraft] Enabling scriptcraft v3.3.0-2017-10-15
-[15:22:42] [Server thread/WARN]: Enabled plugin with unregistered PluginClassLoader scriptcraft v3.3.0-2017-10-15
-[15:22:43] [Server thread/WARN]: [scriptcraft] cow-clicker minigame is not yet supported in CanaryMod or Bukkit
-[15:22:44] [Server thread/INFO]: [scriptcraft] js-patch setTimeout() test complete
-[15:22:44] [Server thread/INFO]: swashbuck1r issued server command: /jsp clear 10
-[15:46:55] [Thread-2/INFO]: Stopping server
+[20:16:53] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[20:16:53] [Server thread/INFO]: Loading properties
+[20:16:53] [Server thread/INFO]: Default game type: CREATIVE
+[20:16:53] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-e8ded36-acbc348 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[20:16:54] [Server thread/INFO]: Debug logging is disabled
+[20:16:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:16:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:16:54] [Server thread/INFO]: Generating keypair
+[20:16:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:16:54] [Server thread/INFO]: Using epoll channel type
+[20:16:54] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[20:16:54] [Server thread/INFO]: [scriptcraft] Loading scriptcraft v3.3.0-2017-10-15
+[20:16:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:16:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:16:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:16:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:16:54] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[20:16:54] [Server thread/INFO]: Preparing level "world"
+[20:16:54] [Server thread/INFO]: -------- World Settings For [world] --------
+[20:16:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[20:16:54] [Server thread/INFO]: Max TNT Explosions: 100
+[20:16:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:16:54] [Server thread/INFO]: Mob Spawn Range: 4
+[20:16:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:16:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:16:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:16:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:16:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:16:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:16:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:16:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:16:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:16:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:16:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[20:16:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:16:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:16:54] [Server thread/INFO]: Random Lighting Updates: false
+[20:16:54] [Server thread/INFO]: Structure Info Saving: true
+[20:16:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:16:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:16:54] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:16:54] [Server thread/INFO]: View Distance: 10
+[20:16:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:16:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:16:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:16:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:16:55] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[20:16:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[20:16:55] [Server thread/INFO]: Max TNT Explosions: 100
+[20:16:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:16:55] [Server thread/INFO]: Mob Spawn Range: 4
+[20:16:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:16:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:16:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:16:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:16:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:16:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:16:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:16:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:16:55] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:16:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:16:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[20:16:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:16:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:16:55] [Server thread/INFO]: Random Lighting Updates: false
+[20:16:55] [Server thread/INFO]: Structure Info Saving: true
+[20:16:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:16:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:16:55] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:16:55] [Server thread/INFO]: View Distance: 10
+[20:16:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:16:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:16:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:16:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:16:55] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[20:16:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[20:16:55] [Server thread/INFO]: Max TNT Explosions: 100
+[20:16:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:16:55] [Server thread/INFO]: Mob Spawn Range: 4
+[20:16:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:16:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:16:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:16:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:16:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:16:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:16:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:16:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:16:55] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:16:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:16:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[20:16:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:16:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:16:55] [Server thread/INFO]: Random Lighting Updates: false
+[20:16:55] [Server thread/INFO]: Structure Info Saving: true
+[20:16:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:16:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:16:55] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:16:55] [Server thread/INFO]: View Distance: 10
+[20:16:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:16:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:16:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:16:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:16:55] [Server thread/INFO]: Preparing start region for level 0 (Seed: -2323229967357585170)
+[20:16:56] [Server thread/INFO]: Preparing spawn area: 40%
+[20:16:57] [Server thread/INFO]: Preparing start region for level 1 (Seed: -2323229967357585170)
+[20:16:57] [Server thread/INFO]: Preparing start region for level 2 (Seed: -2323229967357585170)
+[20:16:57] [Server thread/INFO]: [scriptcraft] Enabling scriptcraft v3.3.0-2017-10-15
+[20:16:58] [User Authenticator #1/INFO]: UUID of player RyanWren is 79b4401e-9bb7-3da4-8d92-f9e883269c36
+[20:17:00] [Server thread/WARN]: [scriptcraft] cow-clicker minigame is not yet supported in CanaryMod or Bukkit
+[20:17:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:17:01] [Server thread/INFO]: Done (7.185s)! For help, type "help" or "?"
+[20:17:01] [Server thread/INFO]: [scriptcraft] js-patch setTimeout() test complete
+[20:17:02] [Server thread/INFO]: [scriptcraft] Enabling scripting for player RyanWren
+[20:17:02] [Server thread/INFO]: RyanWren[/172.17.0.1:36230] logged in with entity id 377 at ([world]428.0510453620545, 64.0, 324.37572085785985)
+[20:17:02] [Server thread/INFO]: Scripting turned on for all players on server 172.17.0.2
+[20:17:30] [Server thread/INFO]: RyanWren issued server command: /js refresh()
+[20:17:30] [Server thread/INFO]: [scriptcraft] Disabling scriptcraft v3.3.0-2017-10-15
+[20:17:30] [Server thread/INFO]: [scriptcraft] Enabling scriptcraft v3.3.0-2017-10-15
+[20:17:30] [Server thread/WARN]: Enabled plugin with unregistered PluginClassLoader scriptcraft v3.3.0-2017-10-15
+[20:17:31] [Server thread/WARN]: [scriptcraft] cow-clicker minigame is not yet supported in CanaryMod or Bukkit
+[20:17:32] [Server thread/INFO]: [scriptcraft] js-patch setTimeout() test complete
+[20:17:35] [User Authenticator #2/INFO]: UUID of player charliebrown9691 is 9fc0c2f9-fdee-331d-a3fe-b24e5da91ef2
+[20:17:35] [Server thread/INFO]: [scriptcraft] Enabling scripting for player charliebrown9691
+[20:17:35] [Server thread/INFO]: charliebrown9691[/172.17.0.1:36234] logged in with entity id 400 at ([world]454.5, 69.0, 255.5)
+[20:17:37] [Server thread/INFO]: RyanWren issued server command: /js refresh()
+[20:17:37] [Server thread/INFO]: [scriptcraft] Disabling scriptcraft v3.3.0-2017-10-15
+[20:17:37] [Server thread/INFO]: [scriptcraft] Enabling scriptcraft v3.3.0-2017-10-15
+[20:17:37] [Server thread/WARN]: Enabled plugin with unregistered PluginClassLoader scriptcraft v3.3.0-2017-10-15
+[20:17:38] [Server thread/WARN]: [scriptcraft] cow-clicker minigame is not yet supported in CanaryMod or Bukkit
+[20:17:39] [Server thread/INFO]: [scriptcraft] js-patch setTimeout() test complete
+[20:17:42] [Server thread/INFO]: charliebrown9691 issued server command: /jsrefresh
+[20:17:48] [Server thread/INFO]: RyanWren issued server command: /jsp rw-hello
+[20:17:48] [Server thread/WARN]: [scriptcraft] Command rw-hello is not recognised
+[20:17:50] [Server thread/INFO]: charliebrown9691 issued server command: /js refresh
+[20:18:02] [Server thread/INFO]: RyanWren issued server command: /jsp spike-hello
+[20:18:02] [Server thread/WARN]: [scriptcraft] Command spike-hello is not recognised
+[20:18:07] [Server thread/INFO]: charliebrown9691 issued server command: /jsp spike-hello
+[20:18:07] [Server thread/WARN]: [scriptcraft] Command spike-hello is not recognised
+[20:18:07] [User Authenticator #3/INFO]: UUID of player w124_karl is 8eabfac3-45bc-3f1f-9b21-162fe906ce67
+[20:18:07] [Server thread/INFO]: [scriptcraft] Enabling scripting for player w124_karl
+[20:18:07] [Server thread/INFO]: w124_karl[/172.17.0.1:36238] logged in with entity id 433 at ([world]446.14508353701865, 70.0, 261.8039190412187)
+[20:18:39] [Server thread/INFO]: w124_karl issued server command: /time set 1000
+[20:18:39] [Server thread/INFO]: [w124_karl: Set the time to 1000]
+[20:18:53] [User Authenticator #4/INFO]: UUID of player lighteningdrake is 6bb89ea4-3271-3d24-88f3-8764e7202e9b
+[20:18:53] [Server thread/INFO]: [scriptcraft] Enabling scripting for player lighteningdrake
+[20:18:53] [Server thread/INFO]: lighteningdrake[/172.17.0.1:36240] logged in with entity id 464 at ([world]503.1427514933889, 71.0, 220.09644279302515)
+[20:19:02] [Server thread/INFO]: charliebrown9691 lost connection: Disconnected
+[20:19:02] [Server thread/INFO]: charliebrown9691 left the game
+[20:19:06] [Server thread/INFO]: lighteningdrake issued server command: /js refresh()
+[20:19:06] [Server thread/INFO]: [scriptcraft] Disabling scriptcraft v3.3.0-2017-10-15
+[20:19:06] [Server thread/INFO]: [scriptcraft] Enabling scriptcraft v3.3.0-2017-10-15
+[20:19:06] [Server thread/WARN]: Enabled plugin with unregistered PluginClassLoader scriptcraft v3.3.0-2017-10-15
+[20:19:06] [Server thread/WARN]: [scriptcraft] cow-clicker minigame is not yet supported in CanaryMod or Bukkit
+[20:19:07] [Server thread/INFO]: [scriptcraft] js-patch setTimeout() test complete
+[20:19:19] [Server thread/INFO]: w124_karl issued server command: /js refresh
+[20:19:29] [Server thread/INFO]: w124_karl issued server command: /js refresh()
+[20:19:29] [Server thread/INFO]: [scriptcraft] Disabling scriptcraft v3.3.0-2017-10-15
+[20:19:29] [Server thread/INFO]: [scriptcraft] Enabling scriptcraft v3.3.0-2017-10-15
+[20:19:29] [Server thread/WARN]: Enabled plugin with unregistered PluginClassLoader scriptcraft v3.3.0-2017-10-15
+[20:19:30] [Server thread/WARN]: [scriptcraft] cow-clicker minigame is not yet supported in CanaryMod or Bukkit
+[20:19:30] [Server thread/INFO]: [scriptcraft] js-patch setTimeout() test complete
+[20:19:31] [Server thread/INFO]: RyanWren issued server command: /js refresh()
+[20:19:32] [Server thread/INFO]: [scriptcraft] Disabling scriptcraft v3.3.0-2017-10-15
+[20:19:32] [Server thread/INFO]: [scriptcraft] Enabling scriptcraft v3.3.0-2017-10-15
+[20:19:32] [Server thread/WARN]: Enabled plugin with unregistered PluginClassLoader scriptcraft v3.3.0-2017-10-15
+[20:19:32] [Server thread/WARN]: [scriptcraft] cow-clicker minigame is not yet supported in CanaryMod or Bukkit
+[20:19:33] [Server thread/INFO]: [scriptcraft] js-patch setTimeout() test complete
+[20:19:41] [Server thread/INFO]: lighteningdrake issued server command: /jsp spike-hello
+[20:19:41] [Server thread/WARN]: [scriptcraft] Command spike-hello is not recognised
+[20:20:07] [Server thread/INFO]: lighteningdrake issued server command: /jsp spike-hello
+[20:20:07] [Server thread/WARN]: [scriptcraft] Command spike-hello is not recognised
+[20:20:24] [Server thread/INFO]: RyanWren issued server command: /
+[20:20:26] [Server thread/INFO]: RyanWren issued server command: /help
+[20:20:36] [Server thread/INFO]: lighteningdrake issued server command: /jsp spike
+[20:20:37] [Server thread/INFO]: RyanWren lost connection: Disconnected
+[20:20:37] [Server thread/INFO]: RyanWren left the game
