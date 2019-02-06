@@ -29,3 +29,8 @@ command( 'aaron-portal', function( parameters, player ) {
     var drone = new Drone(player);
     drone.box0(49,4,1,1).up().box0(49).up().box0(49).up().box(49).right(3).down(2).box0(49).up().box0(49).up().box0(49).up().left(3).box0(49,4,1,1)
 });
+
+command( 'aaron-portal-two', function( parameters, player ) {
+    var drone = new Drone(player);
+    drone.box0(49,4,1,1).up().box0(49).right().box0(90).right().box0(90).right().box(49).up().left(3).box0(90).right().box0(90).right().box0(49).up().left(3).box0(49,4,1,1)
+});
