@@ -4,7 +4,7 @@ CraftBukkit
 Spigot
 apache-maven-3.5.0
 logs
-plugins
+/plugins
 world
 world_nether
 world_the_end
