@@ -7,19 +7,22 @@ splash = require('sounds');
 command( 'spike', function( parameters, player ) {
     var drone = new Drone(player);
     //drone.box('5').up(3).left(4).box('1').turn(3).fwd(5).right().box('1').move('start')
-    drone.box0(98,7,3,5).right(3).door().up(3).left(3).prism0(53,5,7)
+    drone.box0(98,7,3,5).right(3).door().up(3).left(3).prism0(53,7,5)
 });
 
 //jsp clear <size>
 command( 'clear', function( parameters, player ) {
     var drone = new Drone(player);
-    if(parameters.length == 0) {
-        echo( player, "You must define a size to clear" );
+    if(parameters.length != 2) {
+        echo( player, "The required parameters are base(int) and height(int)" );
         return;
     }
-    var size = parseInt(parameters[0]);
+    var base = parseInt(parameters[0]);
+    var height = parseInt(parameters[1]);
+    echo(player, "Height = " + (height + 1));
+    echo(player, "Base = " + base);
     //drone.box(blocks.wood, size, 10, size) //clear house area
-    drone.box(0,size,20,size);
+    drone.box(0,base,height,base);
 });
 
 //jsp igloo

@@ -8,10 +8,9 @@ To run the server on Mac from your current directory:
     docker run -p 25565:25565 -v $PWD:/minecraft -it tclavier/scriptcraft
 
 
-
-
 Setting admin permissions:
-Look up the UUID for your minecraft ID: https://mcuuid.net/
+When you connect to your local server with a minecraft client, it will tell you your UUID in the console output.
+
 Edit the ops.json file to add yourself as an admin:
 
 {
@@ -20,15 +19,7 @@ Edit the ops.json file to add yourself as an admin:
     "level": 4
   },
 
-
-
-Setting the global spawn point:
-
-    /setworldspawn
-
-Adjust the time to day time:
-
-    /time set 1000
+Commit this file back to the repo so it is available on the shared server.
 
 
 Defining your first JS command
@@ -58,3 +49,16 @@ Tip: try to avoid clashiong on command names -- prefix with your initials
 
 Defining a construction command
 -------------------------------
+
+
+
+Handy commands
+--------------
+
+Setting the global spawn point:
+
+    /setworldspawn
+
+Adjust the time to day time:
+
+    /time set 1000
