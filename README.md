@@ -49,7 +49,10 @@ Tip: try to avoid clashiong on command names -- prefix with your initials
 
 Defining a construction command
 -------------------------------
-
+command( 'dwelling', function( parameters, player ) {
+    var drone = new Drone(player);
+    drone.box0(98,7,3,5).right(3).door().up(3).left(3).prism0(53,7,5)
+});
 
 
 Handy commands
