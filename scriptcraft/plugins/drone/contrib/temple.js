@@ -38,7 +38,7 @@ function temple( side ) {
     var middle = Math.round( (side-2) / 2 );
     this
       .chkpt('temple-corner')
-      .box( blocks.brick.mossy, side, 1, side )
+      .box( blocks.tnt, side, 1, side )
       .right( middle )
       .box( blocks.stairs.stone )
       .right()
