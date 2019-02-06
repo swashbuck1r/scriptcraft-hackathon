@@ -50,3 +50,14 @@ command( 'raptorblue', function( parameters, player ) {
     //drone.box('5').up(3).left(4).box('1').turn(3).fwd(5).right().box('1').move('start')
     //drone.box0(98,7,3,5).right(3).door().up(3).left(3).prism0(53,7,5)
 });
+
+command( 'raptorvillage', function( parameters, player ) {
+    var drone = new Drone(player);
+
+    for(var i=0; i<10; i++) {
+        drone.box0(5, 12, 5, 9).right(4).door().up(5).left(4).prism0(5, 12, 9).down(5).right(20);
+    }
+
+    //drone.box('5').up(3).left(4).box('1').turn(3).fwd(5).right().box('1').move('start')
+    //drone.box0(98,7,3,5).right(3).door().up(3).left(3).prism0(53,7,5)
+});
