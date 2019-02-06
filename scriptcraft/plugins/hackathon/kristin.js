@@ -10,9 +10,9 @@ inventory = require('inventory');
 command( 'kristin', function( parameters, player ) {
     var drone = new Drone(player);
     drone.dancefloor()
-    drone.up().left().back().box0(29,7,3,7).right(3).door().up(3).left(3).prism0(53,7,7);
-    //console.log(drone.getLocation());
-    drone.up().back().right(5).wallsign(['Welcome','to the','Dancefloor!']);
+    drone.up().left().back().box0(blocks.diamond_ore,7,3,7).right(3).door()
+        .right().up().wallsign(['Welcome','to the','Dancefloor!'])
+        .up(2).left(4).prism0(blocks.stairs.quartz,7,7);
 });
 
 // Summon a ride!
