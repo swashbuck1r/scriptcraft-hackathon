@@ -2,7 +2,8 @@
 var Drone = require('drone'),
 blocks = require('blocks'),
 utils = require('utils'),
-splash = require('sounds');
+splash = require('sounds'),
+teleport = require('teleport');
 
 command( 'rw-house', function( parameters, player ) {
     var drone = new Drone(player);
@@ -22,4 +23,9 @@ command( 'rw-castle', function( parameters, player ) {
 command( 'rw-dancefloor', function( parameters, player ) {
     var drone = new Drone(player);
     drone.dancefloor()
+});
+
+command( 'aaron-portal', function( parameters, player ) {
+    var drone = new Drone(player);
+    drone.box0(49,4,1,1).up().box0(49).up().box0(49).up().box(49).right(3).down(2).box0(49).up().box0(49).up().box0(49).up().left(3).box0(49,4,1,1)
 });
