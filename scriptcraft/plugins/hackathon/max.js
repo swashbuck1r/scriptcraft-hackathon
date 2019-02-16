@@ -10,5 +10,5 @@ command( 'max-hello', function( parameters, player ) {
 
 command( 'mjhouse', function( parameters, player ) {
     var drone = new Drone(player);
-    drone.box(81, 12, 1, 9).up(1).box0(blocks.glass, 12, 5, 9).right(4).door().up(5).left(4).prism0(5, 12, 9);
+    drone.box(154, 12, 1, 9).up(1).box0(41, 12, 5, 9).right(4).door().up(5).left(4).prism0(45, 12, 9);
 });

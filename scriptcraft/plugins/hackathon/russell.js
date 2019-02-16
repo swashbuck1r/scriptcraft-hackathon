@@ -8,7 +8,7 @@ command( 'russell-hello', function( parameters, player ) {
     echo( player, 'Hello Spike!'  );
   });
 
-command( 'rwhouse', function( parameters, player ) {
+command( 'rwcastle', function( parameters, player ) {
     var drone = new Drone(player);
-    drone.box0(5, 12, 5, 9).right(4).door().up(5).left(4).prism0(5, 12, 9);
+    drone.box0(4, 24, 12, 24).right(24).box0(4, 6, 18, 6).depth(24).box(4, 6, 18, 6)left
 });
