@@ -28,6 +28,7 @@ Docs and Guides
 * [Young Persons Guide to Programming Minecraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md)
  * [Scriptcraft blocks](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#common-block-materials)
 * [API reference](https://github.com/walterhiggins/ScriptCraft/blob/development/docs/API-Reference.md)
+ * [Drone Movement](https://github.com/walterhiggins/ScriptCraft/blob/development/docs/API-Reference.md#drone-movement)
 
 
 

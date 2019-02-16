@@ -10,5 +10,5 @@ command( 'russell-hello', function( parameters, player ) {
 
 command( 'rwcastle', function( parameters, player ) {
     var drone = new Drone(player);
-    drone.box0(4, 24, 12, 24).right(24).box0(4, 6, 18, 6).depth(24).box(4, 6, 18, 6)left
+    drone.box0(4, 24, 12, 24).right(24).box0(4, 6, 18, 6).depth(24).box0(4, 6, 18, 6).left(24)
 });
