@@ -25,7 +25,7 @@ Commit this file back to the repo so it is available on the shared server.
 Docs and Guides
 ---------------
 
-* [Young Persons Guide to Programming Minecraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md])
+* [Young Persons Guide to Programming Minecraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md)
  * [Scriptcraft blocks](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#common-block-materials)
 
 
